@@ -8,6 +8,7 @@ Console.WriteLine("""
     Add
     Sub
     Multi
+    Div
     """);
 string Input = Console.ReadLine();
 
