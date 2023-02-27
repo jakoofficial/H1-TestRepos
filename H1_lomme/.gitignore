@@ -349,12 +349,3 @@ MigrationBackup/
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
 H1_lomme/.vs/H1_lomme/DesignTimeBuild/.dtbcache.v2
-H1_lomme/.vs/H1_lomme/DesignTimeBuild/.dtbcache.v2
-H1_lomme/.vs/H1_lomme/v17/.suo
-H1_lomme/.vs/H1_lomme/v17/.suo
-H1_lomme/H1_lomme/obj/Debug/net7.0/H1_lomme.assets.cache
-H1_lomme/H1_lomme/obj/H1_lomme.csproj.nuget.dgspec.json
-H1_lomme/H1_lomme/obj/H1_lomme.csproj.nuget.g.props
-H1_lomme/H1_lomme/obj/project.assets.json
-H1_lomme/H1_lomme/obj/project.nuget.cache
-*.cache
