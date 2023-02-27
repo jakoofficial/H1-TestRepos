@@ -1,0 +1,15 @@
+C:\Users\Jacob\Desktop\H1\Øvelse 1 - Git Reposetovery Lommeregner\H1-TestRepos\H1_lomme\H1_lomme\bin\Debug\net7.0\H1_lomme.exe
+C:\Users\Jacob\Desktop\H1\Øvelse 1 - Git Reposetovery Lommeregner\H1-TestRepos\H1_lomme\H1_lomme\bin\Debug\net7.0\H1_lomme.deps.json
+C:\Users\Jacob\Desktop\H1\Øvelse 1 - Git Reposetovery Lommeregner\H1-TestRepos\H1_lomme\H1_lomme\bin\Debug\net7.0\H1_lomme.runtimeconfig.json
+C:\Users\Jacob\Desktop\H1\Øvelse 1 - Git Reposetovery Lommeregner\H1-TestRepos\H1_lomme\H1_lomme\bin\Debug\net7.0\H1_lomme.dll
+C:\Users\Jacob\Desktop\H1\Øvelse 1 - Git Reposetovery Lommeregner\H1-TestRepos\H1_lomme\H1_lomme\bin\Debug\net7.0\H1_lomme.pdb
+C:\Users\Jacob\Desktop\H1\Øvelse 1 - Git Reposetovery Lommeregner\H1-TestRepos\H1_lomme\H1_lomme\obj\Debug\net7.0\H1_lomme.csproj.AssemblyReference.cache
+C:\Users\Jacob\Desktop\H1\Øvelse 1 - Git Reposetovery Lommeregner\H1-TestRepos\H1_lomme\H1_lomme\obj\Debug\net7.0\H1_lomme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jacob\Desktop\H1\Øvelse 1 - Git Reposetovery Lommeregner\H1-TestRepos\H1_lomme\H1_lomme\obj\Debug\net7.0\H1_lomme.AssemblyInfoInputs.cache
+C:\Users\Jacob\Desktop\H1\Øvelse 1 - Git Reposetovery Lommeregner\H1-TestRepos\H1_lomme\H1_lomme\obj\Debug\net7.0\H1_lomme.AssemblyInfo.cs
+C:\Users\Jacob\Desktop\H1\Øvelse 1 - Git Reposetovery Lommeregner\H1-TestRepos\H1_lomme\H1_lomme\obj\Debug\net7.0\H1_lomme.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\Desktop\H1\Øvelse 1 - Git Reposetovery Lommeregner\H1-TestRepos\H1_lomme\H1_lomme\obj\Debug\net7.0\H1_lomme.dll
+C:\Users\Jacob\Desktop\H1\Øvelse 1 - Git Reposetovery Lommeregner\H1-TestRepos\H1_lomme\H1_lomme\obj\Debug\net7.0\refint\H1_lomme.dll
+C:\Users\Jacob\Desktop\H1\Øvelse 1 - Git Reposetovery Lommeregner\H1-TestRepos\H1_lomme\H1_lomme\obj\Debug\net7.0\H1_lomme.pdb
+C:\Users\Jacob\Desktop\H1\Øvelse 1 - Git Reposetovery Lommeregner\H1-TestRepos\H1_lomme\H1_lomme\obj\Debug\net7.0\H1_lomme.genruntimeconfig.cache
+C:\Users\Jacob\Desktop\H1\Øvelse 1 - Git Reposetovery Lommeregner\H1-TestRepos\H1_lomme\H1_lomme\obj\Debug\net7.0\ref\H1_lomme.dll
