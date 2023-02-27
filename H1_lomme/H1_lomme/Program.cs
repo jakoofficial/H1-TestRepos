@@ -12,11 +12,11 @@ Console.WriteLine("""
     """);
 string Input = Console.ReadLine();
 
-if (Input == "Add")
+if (Input.Contains("Add"))
 {
 
 }
-else if (Input == "Sub")
+else if (Input.Contains("Sub"))
 {
 
 }
