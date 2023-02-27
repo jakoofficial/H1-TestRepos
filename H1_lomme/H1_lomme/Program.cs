@@ -16,7 +16,7 @@ string Input = Console.ReadLine();
 
 if (Input.Contains("Add"))
 {
-
+    Console.WriteLine(Tal1 + Tal2);
 }
 else if (Input.Contains("Sub"))
 {
