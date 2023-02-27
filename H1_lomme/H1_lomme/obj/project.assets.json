@@ -8,42 +8,25 @@
     "net7.0": []
   },
   "packageFolders": {
-<<<<<<< HEAD
     "C:\\Users\\Jacob\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files (x86)\\Syncfusion\\Essential Studio\\WPF\\20.4.0.38\\ToolboxNuGetPackages": {}
-=======
-    "C:\\Users\\Jacob Ø. Andersen\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
->>>>>>> e743c9a5335cbeab4a97d9216548048578cecb49
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Jacob\\Desktop\\H1\\Øvelse 1 - Git Reposetovery Lommeregner\\H1-TestRepos\\H1_lomme\\H1_lomme\\H1_lomme.csproj",
       "projectName": "H1_lomme",
       "projectPath": "C:\\Users\\Jacob\\Desktop\\H1\\Øvelse 1 - Git Reposetovery Lommeregner\\H1-TestRepos\\H1_lomme\\H1_lomme\\H1_lomme.csproj",
       "packagesPath": "C:\\Users\\Jacob\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Jacob\\Desktop\\H1\\Øvelse 1 - Git Reposetovery Lommeregner\\H1-TestRepos\\H1_lomme\\H1_lomme\\obj\\",
-=======
-      "projectUniqueName": "C:\\Users\\Jacob Ø. Andersen\\Desktop\\WPF\\sudoku\\H1-TestRepos\\H1_lomme\\H1_lomme\\H1_lomme.csproj",
-      "projectName": "H1_lomme",
-      "projectPath": "C:\\Users\\Jacob Ø. Andersen\\Desktop\\WPF\\sudoku\\H1-TestRepos\\H1_lomme\\H1_lomme\\H1_lomme.csproj",
-      "packagesPath": "C:\\Users\\Jacob Ø. Andersen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jacob Ø. Andersen\\Desktop\\WPF\\sudoku\\H1-TestRepos\\H1_lomme\\H1_lomme\\obj\\",
->>>>>>> e743c9a5335cbeab4a97d9216548048578cecb49
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files (x86)\\Syncfusion\\Essential Studio\\WPF\\20.4.0.38\\ToolboxNuGetPackages"
       ],
       "configFilePaths": [
-<<<<<<< HEAD
         "C:\\Users\\Jacob\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-        "C:\\Users\\Jacob Ø. Andersen\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> e743c9a5335cbeab4a97d9216548048578cecb49
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Syncfusion Toolbox for WPF.config"
@@ -90,5 +73,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\Jacob\\Desktop\\H1\\Øvelse 1 - Git Reposetovery Lommeregner\\H1-TestRepos\\H1_lomme\\H1_lomme\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
