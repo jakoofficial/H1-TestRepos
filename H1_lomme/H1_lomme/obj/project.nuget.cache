@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "jUPMiSzXXZE02vgv/SWeNbBdAdkg6lZwkQUbnF6cTD0NZKZqRMdtheduG9xWEJ4BzJW2NV3KkNNZCmta2csavQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Jacob\\Desktop\\H1\\Øvelse 1 - Git Reposetovery Lommeregner\\H1-TestRepos\\H1_lomme\\H1_lomme\\H1_lomme.csproj",
+=======
+  "dgSpecHash": "0HbQevFMiPdMZt4/yH/OpXVt5MrwfSGfO9TvNOCI2GqwoUnDiqB6DMxbFn3Y7MsSKC20QjOY5XHf/HVvWudxkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jacob Ø. Andersen\\Desktop\\WPF\\sudoku\\H1-TestRepos\\H1_lomme\\H1_lomme\\H1_lomme.csproj",
+>>>>>>> e743c9a5335cbeab4a97d9216548048578cecb49
   "expectedPackageFiles": [],
   "logs": []
 }
