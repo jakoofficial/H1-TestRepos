@@ -1,18 +1,16 @@
-﻿Console.WriteLine("Tal1:");
-int Tal1 = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Tal2:");
-int Tal2 = Convert.ToInt32(Console.ReadLine());
+﻿
+int Tal1 = Convert.ToInt32(GetInput("tal1"));
+int Tal2 = Convert.ToInt32(GetInput("tal1"));
 
 
-Console.WriteLine(""" 
+
+var Input = GetInput(""" 
     Chose a fun thing:
     1: Addition
     2: Subtraction
     3: Multiplication
     4: Division
     """);
-
-var Input = GetInput();
 
 switch (Input)
 {
@@ -33,7 +31,8 @@ switch (Input)
         break;
 }
 
-string GetInput ()
+string GetInput (string text)
 {
+    Console.WriteLine(text);
     return Console.ReadLine();
 }
