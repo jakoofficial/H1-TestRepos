@@ -7,12 +7,12 @@ Console.WriteLine("""
     What do your what
     Add
     Sub
-    Multi
+    Mult
     Div
     """);
 string Input = Console.ReadLine();
 
-if (Input == "Add")
+if (Input.Contains("Add"))
 {
 
 }
