@@ -16,7 +16,7 @@ if (Input.Contains("Add"))
 {
 
 }
-else if (Input == "Sub")
+else if (Input.Contains("Sub"))
 {
 
 }
