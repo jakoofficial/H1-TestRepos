@@ -8,23 +8,23 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\August\\.nuget\\packages\\": {},
+    "C:\\Users\\Jacob Ø. Andersen\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\August\\Documents\\GitHub\\H1-TestRepos\\H1_lomme\\H1_lomme\\H1_lomme.csproj",
+      "projectUniqueName": "C:\\Users\\Jacob Ø. Andersen\\Desktop\\WPF\\sudoku\\H1-TestRepos\\H1_lomme\\H1_lomme\\H1_lomme.csproj",
       "projectName": "H1_lomme",
-      "projectPath": "C:\\Users\\August\\Documents\\GitHub\\H1-TestRepos\\H1_lomme\\H1_lomme\\H1_lomme.csproj",
-      "packagesPath": "C:\\Users\\August\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\August\\Documents\\GitHub\\H1-TestRepos\\H1_lomme\\H1_lomme\\obj\\",
+      "projectPath": "C:\\Users\\Jacob Ø. Andersen\\Desktop\\WPF\\sudoku\\H1-TestRepos\\H1_lomme\\H1_lomme\\H1_lomme.csproj",
+      "packagesPath": "C:\\Users\\Jacob Ø. Andersen\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jacob Ø. Andersen\\Desktop\\WPF\\sudoku\\H1-TestRepos\\H1_lomme\\H1_lomme\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\August\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Jacob Ø. Andersen\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -33,6 +33,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
