@@ -5,10 +5,10 @@ int Tal2 = Convert.ToInt32(Console.ReadLine());
 
 Console.WriteLine(""" 
     What do your what
-    Add
-    Sub
-    Mult
-    Div
+    Addition
+    Subtraction
+    Multiplication
+    Division
     """);
 string Input = Console.ReadLine();
 
