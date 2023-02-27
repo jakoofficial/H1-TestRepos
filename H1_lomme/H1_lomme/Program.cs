@@ -5,11 +5,11 @@ int Tal2 = Convert.ToInt32(Console.ReadLine());
 
 
 Console.WriteLine(""" 
-    What do your what
-    Addition - 1
-    Subtraction - 2
-    Multiplication - 3
-    Division - 4
+    Chose a fun thing:
+    1: Addition
+    2: Subtraction
+    3: Multiplication
+    4: Division
     """);
 
 var Input = GetInput();
