@@ -4,11 +4,13 @@ Console.WriteLine("Tal2:");
 int Tal2 = Convert.ToInt32(Console.ReadLine());
 
 Console.WriteLine(""" 
-    What do your what
+    What do your whatsss
     Addition
     Subtraction
     Multiplication
     Division
+    kALsjdklsajd
+    aslkdjasd
     """);
 string Input = Console.ReadLine();
 
